@@ -18,7 +18,7 @@ which are created for commercial purposes or are monetized by advertising, as lo
 Any of the above conditions can be waived if you get permission from Maffhew 
 https://www.planetminecraft.com/member/maffhew/
 
-Nicodemus__ has personally received a permission to alter this resourcepack for private and noncommercial purposes. Any further altering of this working needs a permission from Nicodemus and Maffhew.
+Nicodemus has personally received a permission to alter this resourcepack for noncommercial purposes. Any further altering of this working needs a permission from Nicodemus and Maffhew.
 
 
 CREDITS
