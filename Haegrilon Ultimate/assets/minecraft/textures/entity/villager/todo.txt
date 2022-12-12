@@ -1,0 +1,28 @@
+TYPE:
+[ ]Desert
+[ ]Savanna
+[ ]Taiga
+[ ]Snow
+[ ]Swamp
+[ ]Jungle
+[X]Plains
+
+
+PROFESSION
+[ ]Farmer (straw hat)
+[ ]Fisherman (fisher hat)
+[ ]Shepherd (brown hat with white apron)
+[ ]Fletcher (hat with feather and quiver on back)
+[X]Cleric (purple apron and creeper cloak)
+[ ]Weaponsmith (pirate eyepatch and black apron)
+[ ]Armorer (welding mask)
+[ ]Toolsmith (black apron)
+[X]Librarian (eyeglasses with book as hat)
+[ ]Cartographer (golden monocle)
+[X]Leatherworker (brown apron and brown gloves)
+[ ]Butcher (red headband and white apron)
+[ ]Stone Mason‌[Bedrock Edition only]/Mason‌[Java Edition only] (black apron and black gloves)
+[ ]Nitwit (green coated)
+
+
+https://minecraft.gamepedia.com/Villager#Village_and_Pillage
