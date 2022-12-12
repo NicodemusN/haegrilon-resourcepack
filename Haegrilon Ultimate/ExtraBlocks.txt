@@ -1,0 +1,151 @@
+﻿Extra Blocks:
+══════════════════════════════════════════════	
+- Spruce Crate: Spruce Planks double slab  
+- Jungle Plank Trim: Jungle Planks double slab
+- Sandstone Bricks: Sandstone double slab  
+- Red Sandstone Bricks: Red Sandstone double slab  
+- Dirt Slab: Lower petrified slab /give @player minecraft:petrified_wood_slab
+- Table: Upper petrified slab /give @player minecraft:petrified_oak_slab
+- Cracked Stones: Silverfish infested blocks
+- Bonsai Tree: Flower pot with jungle sapling
+- Wine Bottle/Cactus Juice: Flower pot with cactus
+- Wither Rose Case: Flower pot with wither rose
+- Brazier: End Rod
+- Large Lantern: Beacon
+- Sideways Lantern: End Rod on wall
+- Candelabra: Redstone comparator
+- Pebbles/Rocks: Stone Button
+- Hay Patch: Yellow carpet
+- Rope: Single birch fence
+- Wooden Truss Supports: Hopper
+- Tudor Blocks: Light grey/Brown glazed terracotta
+- Mud: Brown concrete powder
+- Carved Wood: Brown concrete
+- Coin Pile/Chicken Feed: Gold pressure plate
+- Chess/Checkers Board: Dark oak pressure plate
+- Nest: Dead horn coral fan
+- Faucet/Barrel Tap: Tripwire Hook
+- Book Stack: Crimson Button
+- Water Bucket: Warped Button
+- Lava Bucket: Warped Button /setblock ~ ~ ~ minecraft:warped_button[powered=true,face=floor,facing=north]
+
+- Invisible Item Frame: /give @player item_frame{EntityTag:{Invisible:1}}
+
+Optifine Blocks:
+══════════════════════════════════════════════	
+- Orange Concrete with Sandstone Trim
+- Stone Pillar: vertical stack of chiseled stone bricks
+- Natural Glowstone: Glowstone in nether biome
+- Wasp Nest: Dragon Egg in forest biomes
+- Paper Wall: White Glass in birch biomes
+- Sand Dunes: Snow Pile in desert biomes
+- Smoke: Cobweb in nether biome
+- Bamboo: Reeds in birch biomes
+- Papyrus: Reeds in desert biomes
+- Cattail: Reeds in wet biomes
+- Basket: Cauldron in desert biomes
+- Barrel: Cauldron in hills biomes
+- Barrel of Apples, Cabbages, Gold, Wheat, Dirt, Wheat, Coal: Renamed Barrel to "Barrel of ____"
+
+Optifine CIT:
+══════════════════════════════════════════════	
+Items below must be placed in an item frame!
+
+- Round Shield: Renamed Shield to "round shield"
+- Wheel: Renamed Item Frame to "wheel" or "o"
+- Mirror: Renamed Diamond to "mirror"
+- Tanning Rack: Renamed Leather to "tanning rack"
+- Campfire: Renamed Coal to "campfire"
+
+
+Player Heads:
+══════════════════════════════════════════════
+https://minecraft-heads.com/dictionary/tags-grouped
+
+All Minecraft head commands have to be used in command blocks!
+
+- Chests
+https://minecraft-heads.com/custom-heads/decoration/30166-chest
+https://minecraft-heads.com/custom-heads/decoration/2964-chest
+
+- Books, Decorations, and Furniture
+https://minecraft-heads.com/custom-heads/tags/var/Book
+https://minecraft-heads.com/custom-heads/decoration/17163-antique-clock
+https://minecraft-heads.com/custom-heads/decoration/2984-globe
+https://minecraft-heads.com/custom-heads/decoration/22922-stool
+
+- Bags, Rope, and Hay
+https://minecraft-heads.com/custom-heads/tags/var/Cloth
+https://minecraft-heads.com/custom-heads/search?searchword=hay+bale
+
+- Barrels, Pots, Baskets, and Buckets
+https://minecraft-heads.com/custom-heads/search?searchword=barrel
+https://minecraft-heads.com/custom-heads/decoration/864-flowerpot
+https://minecraft-heads.com/custom-heads/decoration/23522-clay-pot
+https://minecraft-heads.com/custom-heads/decoration/1131-basket
+https://minecraft-heads.com/custom-heads/search?searchword=bucket
+
+- Food and Drink
+https://minecraft-heads.com/custom-heads/tags/var/Vegetable
+https://minecraft-heads.com/custom-heads/plants/4570-apple
+https://minecraft-heads.com/custom-heads/plants/33413-broccoli
+https://minecraft-heads.com/custom-heads/plants/31417-cabbage
+https://minecraft-heads.com/custom-heads/plants/4598-pumpkin
+
+https://minecraft-heads.com/custom-heads/food%20&%20drinks/22-bread
+https://minecraft-heads.com/custom-heads/food%20&%20drinks/11494-rye-bread
+
+https://minecraft-heads.com/custom-heads/food-drinks/22354-fish-head
+https://minecraft-heads.com/custom-heads/food-drinks/22820-fish-body
+https://minecraft-heads.com/custom-heads/food-drinks/22353-fish-tail
+
+https://minecraft-heads.com/custom-heads/food-drinks/2427-medieval-beer
+https://minecraft-heads.com/custom-heads/tags/var/Medieval%20Tavern
+
+- Candles and Lanterns
+https://minecraft-heads.com/custom-heads/decoration/268-candle-white
+https://minecraft-heads.com/custom-heads/decoration/21407-candle-white
+https://minecraft-heads.com/custom-heads/decoration/31411-lantern
+https://minecraft-heads.com/custom-heads/decoration/310-lantern
+https://minecraft-heads.com/custom-heads/decoration/311-lantern
+
+- Chickens and Birds
+https://minecraft-heads.com/custom-heads/animals/25751-chicken
+https://minecraft-heads.com/custom-heads/animals/22352-chicken
+https://minecraft-heads.com/custom-heads/animals/25749-duck
+https://minecraft-heads.com/custom-heads/animals/25750-duck
+https://minecraft-heads.com/custom-heads/animals/22961-duck
+https://minecraft-heads.com/custom-heads/animals/4175-goose
+https://minecraft-heads.com/custom-heads/animals/344-owl
+
+
+Custom Characters:
+══════════════════════════════════════════════		
+https://unicode-table.com/en/
+
+Code Name         MOTD code
+═══════════════════════════
+§0	 Black	      \u00A70
+§1	 Dark Blue	  \u00A71
+§2	 Dark Green	  \u00A72
+§3	 Dark Aqua	  \u00A73
+§4	 Dark Red	  \u00A74
+§5	 Dark Purple  \u00A75
+§6	 Gold	      \u00A76
+§7	 Gray	      \u00A77
+§8	 Dark Gray	  \u00A78
+§9	 Blue	      \u00A79
+§a	 Green	      \u00A7a
+§b	 Aqua	      \u00A7b
+§c	 Red	      \u00A7c
+§d	 Light Purple \u00A7d
+§e	 Yellow	      \u00A7e
+§f	 White	      \u00A7f
+
+§k	 Obfuscated	  \u00A7k
+§l	 Bold	      \u00A7l
+§m	 Strike       \u00A7m
+§n	 Underline	  \u00A7n
+§o	 Italic	      \u00A7o
+§r	 Reset	      \u00A7r
+\n	 Extra line	  \n
