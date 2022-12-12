@@ -1,0 +1,53 @@
+{
+    "multipart": [
+      {   "when": { 
+              "age": "0" 
+          },
+          "apply": [
+              { "model": "block/bamboo/bamboo1_age0" },
+              { "model": "block/bamboo/bamboo2_age0" },
+              { "model": "block/bamboo/bamboo3_age0" },
+              { "model": "block/bamboo/bamboo4_age0" }
+              ]
+          },
+          {   "when": { 
+                  "age": "1" 
+          },
+          "apply": [
+              { "model": "block/bamboo/bamboo1_age1" },
+              { "model": "block/bamboo/bamboo2_age1" },
+              { "model": "block/bamboo/bamboo3_age1" },
+              { "model": "block/bamboo/bamboo4_age1" },
+              { "model": "block/bamboo/bamboo2_age1" },
+              { "model": "block/bamboo/bamboo3_age1" },
+              { "model": "block/bamboo/bamboo4_age1" },
+              { "model": "block/bamboo/bamboo2_age1" },
+              { "model": "block/bamboo/bamboo3_age1" },
+              { "model": "block/bamboo/bamboo4_age1" },
+              { "model": "block/bamboo/bamboo5_age1" }
+              ]
+          },
+      {
+        "when": {
+          "leaves": "small"
+        },
+        "apply": [
+                  {"model": "block/bamboo/bamboo_small_leaves_0_0", "weight": 10 },
+                  {"model": "block/bamboo/bamboo_small_leaves_22_0", "weight": 10 },
+                  {"model": "block/bamboo/bamboo_small_leaves_22_1", "weight": 10 },
+                  {"model": "block/bamboo/bamboo_small_leaves_45_0", "weight": 10 }
+                  ]
+      },
+      {
+        "when": {
+          "leaves": "large"
+        },
+        "apply": [
+                  {"model": "block/bamboo/bamboo_large_leaves_0_0", "weight": 10 },
+                  {"model": "block/bamboo/bamboo_large_leaves_22_0", "weight": 10 },
+                  {"model": "block/bamboo/bamboo_large_leaves_22_1", "weight": 10 },
+                  {"model": "block/bamboo/bamboo_large_leaves_45_0", "weight": 10 }
+                  ]
+      }
+    ]
+  }

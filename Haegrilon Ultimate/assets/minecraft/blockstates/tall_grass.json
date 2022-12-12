@@ -1,0 +1,26 @@
+{
+	"variants": {
+		"half=lower":[
+            { "model": "block/tall_grass/tall_grass_bottomx_0_0", "weight": 40 },
+            { "model": "block/tall_grass/tall_grass_bottomx_22_0", "weight": 40 },
+            { "model": "block/tall_grass/tall_grass_bottomx_22_1", "weight": 40 },
+            { "model": "block/tall_grass/tall_grass_bottomx_45_0", "weight": 40 },
+
+			{ "model": "block/tall_grass/tall_grass_bottomg_0_0", "weight": 10 },
+            { "model": "block/tall_grass/tall_grass_bottomg_22_0", "weight": 10 },
+            { "model": "block/tall_grass/tall_grass_bottomg_22_1", "weight": 10 },
+            { "model": "block/tall_grass/tall_grass_bottomg_45_0", "weight": 10 }
+			],
+		"half=upper":[
+			{ "model": "block/tall_grass/tall_grass_topx_0_0", "weight": 40 },
+            { "model": "block/tall_grass/tall_grass_topx_22_0", "weight": 40 },
+            { "model": "block/tall_grass/tall_grass_topx_22_1", "weight": 40 },
+            { "model": "block/tall_grass/tall_grass_topx_45_0", "weight": 40 },
+            
+			{ "model": "block/tall_grass/tall_grass_topg_0_0", "weight": 10 },
+            { "model": "block/tall_grass/tall_grass_topg_22_0", "weight": 10 },
+            { "model": "block/tall_grass/tall_grass_topg_22_1", "weight": 10 },
+            { "model": "block/tall_grass/tall_grass_topg_45_0", "weight": 10 }
+			]
+    }
+}

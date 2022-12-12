@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench",
+    "parent": "item/sword_straight_iron",
+	"textures": {
+		"0": "item/sword_blade_steel",
+		"1": "item/sword_guard_steel",
+		"2": "item/sword_grip_wood2",
+		"3": "item/sword_tip1_steel",
+		"4": "item/sword_tip2_steel",
+		"5": "item/sword_engraving_blank",
+		"particle": "item/sword_blade_steel"
+	}
+}

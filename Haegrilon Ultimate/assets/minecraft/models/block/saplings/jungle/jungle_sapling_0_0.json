@@ -1,0 +1,6 @@
+{
+	"parent": "block/masters/sapling_0_0",
+	"textures": {
+		"sapling": "block/jungle_sapling"
+			}
+}

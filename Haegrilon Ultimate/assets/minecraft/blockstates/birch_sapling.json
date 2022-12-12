@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "stage=0":[
+			{ "model": "block/saplings/birch/birch_sapling_0_0", "weight": 10 },
+			{ "model": "block/saplings/birch/birch_sapling_22_0", "weight": 10 },
+			{ "model": "block/saplings/birch/birch_sapling_22_1", "weight": 10 },
+			{ "model": "block/saplings/birch/birch_sapling_45_0", "weight": 10 }
+			],
+        "stage=1":[
+			{ "model": "block/saplings/birch/birch_sapling_0_0", "weight": 10 },
+			{ "model": "block/saplings/birch/birch_sapling_22_0", "weight": 10 },
+			{ "model": "block/saplings/birch/birch_sapling_22_1", "weight": 10 },
+			{ "model": "block/saplings/birch/birch_sapling_45_0", "weight": 10 }
+			]
+    }
+}

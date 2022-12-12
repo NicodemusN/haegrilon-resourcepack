@@ -1,0 +1,36 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"leaf": "block/bamboo_singleleaf",
+		"particle": "block/bamboo_stalk",
+		"stalk": "block/bamboo_stalk"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 16, 9],
+			"rotation": {"angle": 45, "axis": "y", "origin": [7.82322, 6.75, 8.06586]},
+			"faces": {
+				"north": {"uv": [9.5, 0, 11.5, 16], "texture": "#stalk"},
+				"east": {"uv": [9.5, 0, 11.5, 16], "texture": "#stalk"},
+				"south": {"uv": [9.5, 0, 11.5, 16], "texture": "#stalk"},
+				"west": {"uv": [9.5, 0, 11.5, 16], "texture": "#stalk"},
+				"up": {"uv": [13, 0, 15, 2], "texture": "#stalk", "cullface": "up"},
+				"down": {"uv": [13, 4, 15, 6], "texture": "#stalk", "cullface": "down"}
+			}
+		},
+		{
+			"from": [7.7448, -2.5, 0.23744],
+			"to": [7.7448, 13.5, 16.23744],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.82322, 6.75, 8.06586]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 16], "texture": "#leaf"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#leaf"},
+				"south": {"uv": [0, 0, 0, 16], "texture": "#leaf"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#leaf"},
+				"up": {"uv": [0, 0, 16, 0], "rotation": 270, "texture": "#leaf"},
+				"down": {"uv": [0, 0, 16, 0], "rotation": 90, "texture": "#leaf"}
+			}
+		}
+	]
+}

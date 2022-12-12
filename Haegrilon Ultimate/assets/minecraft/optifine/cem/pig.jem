@@ -1,0 +1,52 @@
+{
+  "models": 
+  [
+    {
+      "model": "pig_head.jpm",
+      "part": "head", 
+	  "attach": false,
+      "translate": [ 8, 8, -12],
+      "rotate": [0, 0, 0]
+    },
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [-3, -6, -7],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-5, 0, 6, 3, 6, 3], "textureOffset": [2, 17]}
+			]
+		},
+		{
+			"part": "leg2",
+			"id": "leg2",
+			"invertAxis": "xy",
+			"translate": [3, -6, -7],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [2, 0, 6, 3, 6, 3], "textureOffset": [2, 17]}
+			]
+		},
+		{
+			"part": "leg3",
+			"id": "leg3",
+			"invertAxis": "xy",
+			"translate": [-3, -6, 5],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-5, 0, -7, 3, 6, 3], "textureOffset": [2, 17]}
+			]
+		},
+		{
+			"part": "leg4",
+			"id": "leg4",
+			"invertAxis": "xy",
+			"translate": [3, -6, 5],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [2, 0, -7, 3, 6, 3], "textureOffset": [2, 17]}
+			]
+		}
+  ]
+}

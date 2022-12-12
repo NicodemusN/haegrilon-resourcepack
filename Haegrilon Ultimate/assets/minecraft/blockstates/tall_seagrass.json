@@ -1,0 +1,26 @@
+{
+	"variants": {
+		"half=lower":[
+            { "model": "block/tall_seagrass/tall_seagrass_bottomx_0_0", "weight": 20 },
+            { "model": "block/tall_seagrass/tall_seagrass_bottomx_22_0", "weight": 20 },
+            { "model": "block/tall_seagrass/tall_seagrass_bottomx_22_1", "weight": 20 },
+            { "model": "block/tall_seagrass/tall_seagrass_bottomx_45_0", "weight": 20 },
+
+			{ "model": "block/tall_seagrass/tall_seagrass_bottomg_0_0", "weight": 5 },
+            { "model": "block/tall_seagrass/tall_seagrass_bottomg_22_0", "weight": 5 },
+            { "model": "block/tall_seagrass/tall_seagrass_bottomg_22_1", "weight": 5 },
+            { "model": "block/tall_seagrass/tall_seagrass_bottomg_45_0", "weight": 5 }
+			],
+		"half=upper":[
+			{ "model": "block/tall_seagrass/tall_seagrass_topx_0_0", "weight": 20 },
+            { "model": "block/tall_seagrass/tall_seagrass_topx_22_0", "weight": 20 },
+            { "model": "block/tall_seagrass/tall_seagrass_topx_22_1", "weight": 20 },
+            { "model": "block/tall_seagrass/tall_seagrass_topx_45_0", "weight": 20 },
+            
+			{ "model": "block/tall_seagrass/tall_seagrass_topg_0_0", "weight": 5 },
+            { "model": "block/tall_seagrass/tall_seagrass_topg_22_0", "weight": 5 },
+            { "model": "block/tall_seagrass/tall_seagrass_topg_22_1", "weight": 5 },
+            { "model": "block/tall_seagrass/tall_seagrass_topg_45_0", "weight": 5 }
+			]
+    }
+}

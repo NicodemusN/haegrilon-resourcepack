@@ -1,0 +1,98 @@
+{
+	"multipart": [
+		{
+			"apply": [
+				{ "model": "block/flower_pots/dirt/flower_pot_0_0", "weight":14 },
+				{ "model": "block/flower_pots/dirt/flower_pot_22_0", "weight":3 },
+				{ "model": "block/flower_pots/dirt/flower_pot_22_1", "weight":3 },
+				{ "model": "block/flower_pots/dirt/flower_pot_45_0", "weight":1 },
+				
+				{ "model": "block/flower_pots/dirt/flower_pot1_0_0", "weight":14 },
+				{ "model": "block/flower_pots/dirt/flower_pot1_22_0", "weight":3 },
+				{ "model": "block/flower_pots/dirt/flower_pot1_22_1", "weight":3 },
+				{ "model": "block/flower_pots/dirt/flower_pot1_45_0", "weight":1 },
+
+				{ "model": "block/flower_pots/dirt/flower_pot2_0_0", "weight":14 },
+				{ "model": "block/flower_pots/dirt/flower_pot2_22_0", "weight":3 },
+				{ "model": "block/flower_pots/dirt/flower_pot2_22_1", "weight":3 },
+				{ "model": "block/flower_pots/dirt/flower_pot2_45_0", "weight":1 },
+
+
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot_0_0", "weight":14 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot_22_0", "weight":3 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot_22_1", "weight":3 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot_45_0", "weight":1 },
+				
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot1_0_0", "weight":14 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot1_22_0", "weight":3 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot1_22_1", "weight":3 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot1_45_0", "weight":1 },
+
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot2_0_0", "weight":14 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot2_22_0", "weight":3 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot2_22_1", "weight":3 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot2_45_0", "weight":1 },
+
+
+				{ "model": "block/flower_pots/compost/flower_pot_0_0", "weight":14 },
+				{ "model": "block/flower_pots/compost/flower_pot_22_0", "weight":3 },
+				{ "model": "block/flower_pots/compost/flower_pot_22_1", "weight":3 },
+				{ "model": "block/flower_pots/compost/flower_pot_45_0", "weight":1 },
+				
+				{ "model": "block/flower_pots/compost/flower_pot1_0_0", "weight":14 },
+				{ "model": "block/flower_pots/compost/flower_pot1_22_0", "weight":3 },
+				{ "model": "block/flower_pots/compost/flower_pot1_22_1", "weight":3 },
+				{ "model": "block/flower_pots/compost/flower_pot1_45_0", "weight":1 },
+
+				{ "model": "block/flower_pots/compost/flower_pot2_0_0", "weight":14 },
+				{ "model": "block/flower_pots/compost/flower_pot2_22_0", "weight":3 },
+				{ "model": "block/flower_pots/compost/flower_pot2_22_1", "weight":3 },
+				{ "model": "block/flower_pots/compost/flower_pot2_45_0", "weight":1 }
+			]
+		},
+		{
+			"apply": [
+				{ "model": "block/bamboo/potted/bamboo2_age0_0_0", "weight":2 },
+        { "model": "block/bamboo/potted/bamboo2_age0_0_0", "weight":2, "y": 90  },
+        { "model": "block/bamboo/potted/bamboo2_age0_0_0", "weight":2, "y": 180  },
+        { "model": "block/bamboo/potted/bamboo2_age0_0_0", "weight":2, "y": 270  },
+
+				{ "model": "block/bamboo/potted/bamboo2_age0_22_0", "weight":2 },
+        { "model": "block/bamboo/potted/bamboo2_age0_22_0", "weight":2, "y": 90   },
+        { "model": "block/bamboo/potted/bamboo2_age0_22_0", "weight":2, "y": 180   },
+        { "model": "block/bamboo/potted/bamboo2_age0_22_0", "weight":2, "y": 270   },
+
+				{ "model": "block/bamboo/potted/bamboo2_age0_22_1", "weight":2 },
+        { "model": "block/bamboo/potted/bamboo2_age0_22_0", "weight":2, "y": 90   },
+        { "model": "block/bamboo/potted/bamboo2_age0_22_0", "weight":2, "y": 180   },
+        { "model": "block/bamboo/potted/bamboo2_age0_22_0", "weight":2, "y": 270   },
+
+				{ "model": "block/bamboo/potted/bamboo2_age0_45_0", "weight":2 },
+        { "model": "block/bamboo/potted/bamboo2_age0_45_0", "weight":2, "y": 90   },
+        { "model": "block/bamboo/potted/bamboo2_age0_45_0", "weight":2, "y": 180   },
+        { "model": "block/bamboo/potted/bamboo2_age0_45_0", "weight":2, "y": 270   },
+
+
+        { "model": "block/bamboo/potted/bamboo2_age0_0_0_high", "weight":2 },
+        { "model": "block/bamboo/potted/bamboo2_age0_0_0_high", "weight":2, "y": 90   },
+        { "model": "block/bamboo/potted/bamboo2_age0_0_0_high", "weight":2, "y": 180   },
+        { "model": "block/bamboo/potted/bamboo2_age0_0_0_high", "weight":2, "y": 270   },
+
+				{ "model": "block/bamboo/potted/bamboo2_age0_22_0_high", "weight":2 },
+        { "model": "block/bamboo/potted/bamboo2_age0_22_0_high", "weight":2, "y": 90   },
+        { "model": "block/bamboo/potted/bamboo2_age0_22_0_high", "weight":2, "y": 180   },
+        { "model": "block/bamboo/potted/bamboo2_age0_22_0_high", "weight":2, "y": 270   },
+
+				{ "model": "block/bamboo/potted/bamboo2_age0_22_1_high", "weight":2 },
+        { "model": "block/bamboo/potted/bamboo2_age0_22_1_high", "weight":2, "y": 90   },
+        { "model": "block/bamboo/potted/bamboo2_age0_22_1_high", "weight":2, "y": 180   },
+        { "model": "block/bamboo/potted/bamboo2_age0_22_1_high", "weight":2, "y": 270   },
+
+				{ "model": "block/bamboo/potted/bamboo2_age0_45_0_high", "weight":2 },
+        { "model": "block/bamboo/potted/bamboo2_age0_45_0_high", "weight":2, "y": 90   },
+        { "model": "block/bamboo/potted/bamboo2_age0_45_0_high", "weight":2, "y": 180   },
+        { "model": "block/bamboo/potted/bamboo2_age0_45_0_high", "weight":2, "y": 270   }
+			]
+		}
+	]
+}

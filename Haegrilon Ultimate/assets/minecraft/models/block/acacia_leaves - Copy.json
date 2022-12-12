@@ -1,0 +1,80 @@
+{
+	"textures": {
+		"particle": "block/acacia_leaves",
+		"middle": "block/acacia_leaves",
+		"tips": "block/leaves_acacia_tips"
+	},
+	"elements": [
+		{
+			"name": "leaves",
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#middle", "tintindex": 0},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#middle", "tintindex": 0},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#middle", "tintindex": 0},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#middle", "tintindex": 0},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#middle", "tintindex": 0},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#middle", "tintindex": 0}
+			}
+		},
+		{
+			"name": "edgeNS",
+			"from": [0, -8, 0.5],
+			"to": [16, 0, 15.5],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 8], "texture": "#tips", "tintindex": 0},
+				"south": {"uv": [0, 0, 16, 8], "texture": "#tips", "tintindex": 0}
+			}
+		},
+		{
+			"name": "edgeEW",
+			"from": [0.5, -8, 0],
+			"to": [15.5, 0, 16],
+			"faces": {
+				"east": {"uv": [0, 0, 16, 8], "texture": "#tips", "tintindex": 0},
+				"west": {"uv": [0, 0, 16, 8], "texture": "#tips", "tintindex": 0}
+			}
+		},
+		{
+			"name": "crossEW",
+			"from": [7.5, -8, -1],
+			"to": [7.5, 0, 17],
+			"rotation": {"angle": 45, "axis": "y", "origin": [7, 8, 7]},
+			"faces": {
+				"east": {"uv": [16, 0, 0, 8], "texture": "#tips", "tintindex": 0},
+				"west": {"uv": [16, 0, 0, 8], "texture": "#tips", "tintindex": 0}
+			}
+		},
+		{
+			"name": "crossNS",
+			"from": [-1, -8, 7.5],
+			"to": [17, 0, 7.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 8], "texture": "#tips", "tintindex": 0},
+				"south": {"uv": [16, 0, 0, 8], "texture": "#tips", "tintindex": 0}
+			}
+		},
+		{
+			"name": "topEW",
+			"from": [7.5, 13, -1],
+			"to": [7.5, 20, 17],
+			"rotation": {"angle": 45, "axis": "y", "origin": [7, 29, 7]},
+			"faces": {
+				"east": {"uv": [0, 10, 16, 16], "texture": "#tips", "tintindex": 0},
+				"west": {"uv": [0, 10, 16, 16], "texture": "#tips", "tintindex": 0}
+			}
+		},
+		{
+			"name": "topNS",
+			"from": [-1, 13, 7.5],
+			"to": [17, 20, 7.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 29, 8]},
+			"faces": {
+				"north": {"uv": [0, 10, 16, 16], "texture": "#tips", "tintindex": 0},
+				"south": {"uv": [0, 10, 16, 16], "texture": "#tips", "tintindex": 0}
+			}
+		}
+	]
+}

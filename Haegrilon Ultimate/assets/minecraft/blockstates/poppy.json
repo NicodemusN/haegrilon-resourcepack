@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "":[
+			{ "model": "block/flowers/poppy/poppy_0_0", "weight": 5 },
+			{ "model": "block/flowers/poppy/poppy_22_0", "weight": 5 },
+			{ "model": "block/flowers/poppy/poppy_22_1", "weight": 5 },
+			{ "model": "block/flowers/poppy/poppy_45_0", "weight": 5 },
+
+            { "model": "block/flowers/poppy/poppy_bunch_0_0", "weight": 40 },
+			{ "model": "block/flowers/poppy/poppy_bunch_22_0", "weight": 40 }
+		]
+    }
+}

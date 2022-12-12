@@ -1,0 +1,8 @@
+{
+    "parent": "block/masters/poppy_bunch_22_0",
+    "textures": {
+        "stems": "block/poppy_stems",
+        "flower_top": "block/poppy_flowers",
+        "flower_bottom": "block/poppy_bottom"
+    }
+}

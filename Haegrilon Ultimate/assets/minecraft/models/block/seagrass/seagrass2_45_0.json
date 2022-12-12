@@ -1,0 +1,6 @@
+{
+    "parent": "block/masters/grid_45_0",
+    "textures": {
+      "texture": "minecraft:block/seagrass2"
+    }
+  }

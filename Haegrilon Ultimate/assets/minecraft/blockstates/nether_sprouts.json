@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "": [
+        { "model": "block/nether_sprouts/nether_sproutsx_0_0", "weight": 40 },
+		{ "model": "block/nether_sprouts/nether_sproutsx_22_0", "weight": 40 },
+		{ "model": "block/nether_sprouts/nether_sproutsx_22_1", "weight": 40 },
+		{ "model": "block/nether_sprouts/nether_sproutsx_45_0", "weight": 40 },
+        
+		{ "model": "block/nether_sprouts/nether_sproutsg_0_0", "weight": 10 },
+		{ "model": "block/nether_sprouts/nether_sproutsg_22_0", "weight": 10 },
+		{ "model": "block/nether_sprouts/nether_sproutsg_22_1", "weight": 10 },
+		{ "model": "block/nether_sprouts/nether_sproutsg_45_0", "weight": 10 }		
+        ]
+    }
+}

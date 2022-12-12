@@ -1,0 +1,35 @@
+{
+	"multipart": [
+		{
+			"apply": [
+				{ "model": "block/flower_pots/dirt/flower_pot4_0_0", "weight":14 },
+				{ "model": "block/flower_pots/dirt/flower_pot4_22_0", "weight":3 },
+				{ "model": "block/flower_pots/dirt/flower_pot4_22_1", "weight":3 },
+				{ "model": "block/flower_pots/dirt/flower_pot4_45_0", "weight":1 },
+
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot4_0_0", "weight":14 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot4_22_0", "weight":3 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot4_22_1", "weight":3 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot4_45_0", "weight":1 },
+
+				{ "model": "block/flower_pots/compost/flower_pot4_0_0", "weight":14 },
+				{ "model": "block/flower_pots/compost/flower_pot4_22_0", "weight":3 },
+				{ "model": "block/flower_pots/compost/flower_pot4_22_1", "weight":3 },
+				{ "model": "block/flower_pots/compost/flower_pot4_45_0", "weight":1 }
+			]
+		},
+		{
+			"apply": [
+				{ "model": "block/dead_bush/potted/dead_bush_0_0", "weight":2 },
+				{ "model": "block/dead_bush/potted/dead_bush_22_0", "weight":2 },
+				{ "model": "block/dead_bush/potted/dead_bush_22_1", "weight":2 },
+				{ "model": "block/dead_bush/potted/dead_bush_45_0", "weight":2 },
+
+				{ "model": "block/dead_bush/potted/dead_bush1_0_0", "weight":2 },
+				{ "model": "block/dead_bush/potted/dead_bush1_22_0", "weight":2 },
+				{ "model": "block/dead_bush/potted/dead_bush1_22_1", "weight":2 },
+				{ "model": "block/dead_bush/potted/dead_bush1_45_0", "weight":2 }
+			]
+		}
+	]
+}

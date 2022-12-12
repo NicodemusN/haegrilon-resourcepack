@@ -1,0 +1,6 @@
+{
+    "parent": "block/masters/cross_mirrored_22_1",
+    "textures": {
+        "texture": "block/lily_of_the_valley"
+    }
+}

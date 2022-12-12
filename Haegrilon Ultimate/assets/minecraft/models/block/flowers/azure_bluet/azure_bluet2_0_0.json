@@ -1,0 +1,6 @@
+{
+    "parent": "block/masters/grid_slanted_0_0",
+    "textures": {
+        "texture": "block/azure_bluet"
+    }
+}

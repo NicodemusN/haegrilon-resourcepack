@@ -1,0 +1,6 @@
+{
+    "parent": "block/masters/tinted_fern_22_1",
+    "textures": {
+        "fern": "block/fern3"
+    }
+}

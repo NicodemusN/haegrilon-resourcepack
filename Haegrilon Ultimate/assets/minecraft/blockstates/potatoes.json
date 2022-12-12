@@ -1,0 +1,52 @@
+{
+    "variants": {
+        "age=0": [
+				{ "model": "block/crops/potatoes/potatoes_stage0_0_0", "weight": 100 },
+				{ "model": "block/crops/potatoes/potatoes_stage0_22_0", "weight": 20 },
+				{ "model": "block/crops/potatoes/potatoes_stage0_22_1", "weight": 20 },
+				{ "model": "block/crops/potatoes/potatoes_stage0_45_0", "weight": 1 }
+				],
+        "age=1": [
+				{ "model": "block/crops/potatoes/potatoes_stage0_0_0", "weight": 100 },
+				{ "model": "block/crops/potatoes/potatoes_stage0_22_0", "weight": 20 },
+				{ "model": "block/crops/potatoes/potatoes_stage0_22_1", "weight": 20 },
+				{ "model": "block/crops/potatoes/potatoes_stage0_45_0", "weight": 1 }
+				],
+        "age=2": [
+				{ "model": "block/crops/potatoes/potatoes_stage1_0_0", "weight": 100 },
+				{ "model": "block/crops/potatoes/potatoes_stage1_22_0", "weight": 20 },
+				{ "model": "block/crops/potatoes/potatoes_stage1_22_1", "weight": 20 },
+				{ "model": "block/crops/potatoes/potatoes_stage1_45_0", "weight": 1 }
+				],
+        "age=3": [
+				{ "model": "block/crops/potatoes/potatoes_stage1_0_0", "weight": 100 },
+				{ "model": "block/crops/potatoes/potatoes_stage1_22_0", "weight": 20 },
+				{ "model": "block/crops/potatoes/potatoes_stage1_22_1", "weight": 20 },
+				{ "model": "block/crops/potatoes/potatoes_stage1_45_0", "weight": 1 }
+				],
+        "age=4": [
+				{ "model": "block/crops/potatoes/potatoes_stage2_0_0", "weight": 100 },
+				{ "model": "block/crops/potatoes/potatoes_stage2_22_0", "weight": 20 },
+				{ "model": "block/crops/potatoes/potatoes_stage2_22_1", "weight": 20 },
+				{ "model": "block/crops/potatoes/potatoes_stage2_45_0", "weight": 1 }
+				],
+        "age=5": [
+				{ "model": "block/crops/potatoes/potatoes_stage2_0_0", "weight": 100 },
+				{ "model": "block/crops/potatoes/potatoes_stage2_22_0", "weight": 20 },
+				{ "model": "block/crops/potatoes/potatoes_stage2_22_1", "weight": 20 },
+				{ "model": "block/crops/potatoes/potatoes_stage2_45_0", "weight": 1 }
+				],
+        "age=6": [
+				{ "model": "block/crops/potatoes/potatoes_stage2_0_0", "weight": 100 },
+				{ "model": "block/crops/potatoes/potatoes_stage2_22_0", "weight": 20 },
+				{ "model": "block/crops/potatoes/potatoes_stage2_22_1", "weight": 20 },
+				{ "model": "block/crops/potatoes/potatoes_stage2_45_0", "weight": 1 }
+				],
+        "age=7": [
+				{ "model": "block/crops/potatoes/potatoes_stage3_0_0", "weight": 100 },
+				{ "model": "block/crops/potatoes/potatoes_stage3_22_0", "weight": 20 },
+				{ "model": "block/crops/potatoes/potatoes_stage3_22_1", "weight": 20 },
+				{ "model": "block/crops/potatoes/potatoes_stage3_45_0", "weight": 1 }
+				]
+    }
+}

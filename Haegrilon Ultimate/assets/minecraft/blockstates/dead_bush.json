@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "":[
+			{ "model": "block/dead_bush/dead_bush_0_0", "weight": 10 },
+			{ "model": "block/dead_bush/dead_bush_22_0", "weight": 10 },
+			{ "model": "block/dead_bush/dead_bush_22_1", "weight": 10 },
+			{ "model": "block/dead_bush/dead_bush_45_0", "weight": 10 },
+			
+			{ "model": "block/dead_bush/dead_bush1_0_0", "weight": 10 },
+			{ "model": "block/dead_bush/dead_bush1_22_0", "weight": 10 },
+			{ "model": "block/dead_bush/dead_bush1_22_1", "weight": 10 },
+			{ "model": "block/dead_bush/dead_bush1_45_0", "weight": 10 }
+			]
+    }
+}

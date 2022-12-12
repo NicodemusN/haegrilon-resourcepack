@@ -1,0 +1,36 @@
+{
+    "variants": {
+        "age=0": [
+				{ "model": "block/sweet_berry_bush/sweet_berry_bush_stage0_0_0", "weight": 10 },
+				{ "model": "block/sweet_berry_bush/sweet_berry_bush_stage0_22_0", "weight": 2 },
+				{ "model": "block/sweet_berry_bush/sweet_berry_bush_stage0_22_1", "weight": 2 },
+				{ "model": "block/sweet_berry_bush/sweet_berry_bush_stage0_45_0", "weight": 2 },
+				{ "model": "block/sweet_berry_bush/sweet_berry_bush_stage0a_0_0", "weight": 2 },
+				{ "model": "block/sweet_berry_bush/sweet_berry_bush_stage0a_22_0", "weight": 2 }
+				],        
+        "age=1": [
+				{ "model": "block/sweet_berry_bush/sweet_berry_bush_stage1_0_0", "weight": 10 },
+				{ "model": "block/sweet_berry_bush/sweet_berry_bush_stage1_22_0", "weight": 2 },
+				{ "model": "block/sweet_berry_bush/sweet_berry_bush_stage1_22_1", "weight": 2 },
+				{ "model": "block/sweet_berry_bush/sweet_berry_bush_stage1_45_0", "weight": 2 },
+				{ "model": "block/sweet_berry_bush/sweet_berry_bush_stage1a_0_0", "weight": 2 },
+				{ "model": "block/sweet_berry_bush/sweet_berry_bush_stage1a_22_0", "weight": 2 }
+				],        
+        "age=2": [
+				{ "model": "block/sweet_berry_bush/sweet_berry_bush_stage2_0_0", "weight": 10 },
+				{ "model": "block/sweet_berry_bush/sweet_berry_bush_stage2_22_0", "weight": 2 },
+				{ "model": "block/sweet_berry_bush/sweet_berry_bush_stage2_22_1", "weight": 2 },
+				{ "model": "block/sweet_berry_bush/sweet_berry_bush_stage2_45_0", "weight": 2 },
+				{ "model": "block/sweet_berry_bush/sweet_berry_bush_stage2a_0_0", "weight": 2 },
+				{ "model": "block/sweet_berry_bush/sweet_berry_bush_stage2a_22_0", "weight": 2 }
+				],       
+        "age=3": [
+				{ "model": "block/sweet_berry_bush/sweet_berry_bush_stage3_0_0", "weight": 10 },
+				{ "model": "block/sweet_berry_bush/sweet_berry_bush_stage3_22_0", "weight": 2 },
+				{ "model": "block/sweet_berry_bush/sweet_berry_bush_stage3_22_1", "weight": 2 },
+				{ "model": "block/sweet_berry_bush/sweet_berry_bush_stage3_45_0", "weight": 2 },
+				{ "model": "block/sweet_berry_bush/sweet_berry_bush_stage3a_0_0", "weight": 2 },
+				{ "model": "block/sweet_berry_bush/sweet_berry_bush_stage3a_22_0", "weight": 2 }
+				]
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/masters/potted_cross_45_0",
+    "textures": {
+        "texture": "block/white_tulip"
+    }
+}

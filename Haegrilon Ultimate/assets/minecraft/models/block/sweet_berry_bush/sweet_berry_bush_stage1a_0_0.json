@@ -1,0 +1,6 @@
+{
+    "parent": "block/masters/cross2_0_0",
+    "textures": {
+      "texture": "minecraft:block/sweet_berry_bush_stage1"
+    }
+  }

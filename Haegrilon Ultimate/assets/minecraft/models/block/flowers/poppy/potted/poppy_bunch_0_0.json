@@ -1,0 +1,8 @@
+{
+    "parent": "block/masters/potted_poppy_bunch_0_0",
+    "textures": {
+        "stems": "block/potted_poppy/poppy_stems_small",
+        "flower_top": "block/poppy_flowers",
+        "flower_bottom": "block/poppy_bottom"
+    }
+}

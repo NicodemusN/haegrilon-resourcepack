@@ -1,0 +1,39 @@
+{
+  "models": 
+  [
+    {
+      "model": "sheep_head.jpm",
+      "part": "head", 
+	  "attach": true,
+      "translate": [ 8, 7, -10],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "sheep_leg1.jpm",
+      "part": "leg1", 
+	  "attach": false,
+      "translate": [ 0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "sheep_leg2.jpm",
+      "part": "leg2", 
+	  "attach": false,
+      "translate": [ 0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "sheep_leg3.jpm",
+      "part": "leg3", 
+	  "attach": false,
+      "translate": [ 0, 0, 0],
+      "rotate": [0, 0, 0]
+    },{
+      "model": "sheep_leg4.jpm",
+      "part": "leg4", 
+	  "attach": false,
+      "translate": [ 0, 0, 0],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

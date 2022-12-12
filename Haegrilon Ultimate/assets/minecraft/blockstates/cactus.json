@@ -1,0 +1,28 @@
+{
+    "variants": {
+        "": [	
+            { "model": "block/cactus/cactus_0_0", "weight": 400 },
+            				
+            { "model": "block/cactus/cactus1_0_0", "weight": 10 },
+            { "model": "block/cactus/cactus1_0_0", "weight": 10, "y": 90 },
+            { "model": "block/cactus/cactus1_0_0", "weight": 10, "y": 180 },
+            { "model": "block/cactus/cactus1_0_0", "weight": 10, "y": 270 },
+			
+			{ "model": "block/cactus/cactus1_22_0", "weight": 10 },
+            { "model": "block/cactus/cactus1_22_0", "weight": 10, "y": 90 },
+            { "model": "block/cactus/cactus1_22_0", "weight": 10, "y": 180 },
+            { "model": "block/cactus/cactus1_22_0", "weight": 10, "y": 270 },
+
+			{ "model": "block/cactus/cactus1_22_1", "weight": 10 },
+            { "model": "block/cactus/cactus1_22_1", "weight": 10, "y": 90 },
+            { "model": "block/cactus/cactus1_22_1", "weight": 10, "y": 180 },
+            { "model": "block/cactus/cactus1_22_1", "weight": 10, "y": 270 },	
+
+			{ "model": "block/cactus/cactus1_45_0", "weight": 10 },
+            { "model": "block/cactus/cactus1_45_0", "weight": 10, "y": 90 },
+            { "model": "block/cactus/cactus1_45_0", "weight": 10, "y": 180 },
+            { "model": "block/cactus/cactus1_45_0", "weight": 10, "y": 270 }			
+        ]
+    }
+}
+			

@@ -1,0 +1,6 @@
+{
+    "parent": "block/masters/tinted_cross_0_0",
+    "textures": {
+        "texture": "block/large_fern_bottom"
+    }
+}

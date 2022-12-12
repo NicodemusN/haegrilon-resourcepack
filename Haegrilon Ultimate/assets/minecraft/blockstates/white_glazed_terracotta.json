@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "block/misc/glazed/white_s" },
+        "facing=west": { "model": "block/misc/glazed/white_w" },
+        "facing=north": { "model": "block/misc/glazed/white_n" },
+        "facing=east": { "model": "block/misc/glazed/white_e" }
+    }
+}

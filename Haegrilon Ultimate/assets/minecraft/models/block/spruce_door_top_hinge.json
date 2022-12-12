@@ -1,0 +1,41 @@
+{
+	"textures": {
+		"0": "block/spruce_door_side",
+		"particle": "block/spruce_door_top"
+	},
+	"elements": [
+		{
+			"name": "cube",
+			"from": [0, 0, 0],
+			"to": [3, 16, 16],
+			"faces": {
+				"north": {
+					"uv": [7, 0, 4, 16],
+					"texture": "#0",
+					"cullface": "north"
+				},
+				"east": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#particle"
+				},
+				"south": {
+					"uv": [0, 0, 3, 16],
+					"texture": "#0",
+					"cullface": "south"
+				},
+				"west": {
+					"uv": [16, 0, 0, 16],
+					"texture": "#particle",
+					"cullface": "west"
+				},
+				"up": {
+					"uv": [16, 0, 0, 3],
+					"texture": "#particle",
+					"cullface": "up",
+					"rotation": 90
+				}
+			}
+		}
+	],
+	"ambientocclusion": false
+}

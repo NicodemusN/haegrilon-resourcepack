@@ -1,0 +1,55 @@
+{
+    "variants": {
+        "": [
+        { "model": "block/grass/grass/grassx_0_0", "weight": 40 },
+		{ "model": "block/grass/grass/grassx_22_0", "weight": 40 },
+		{ "model": "block/grass/grass/grassx_22_1", "weight": 40 },
+		{ "model": "block/grass/grass/grassx_45_0", "weight": 40 },
+        { "model": "block/grass/grass/grassg_0_0", "weight": 10 },
+		{ "model": "block/grass/grass/grassg_22_0", "weight": 10 },
+		{ "model": "block/grass/grass/grassg_22_1", "weight": 10 },
+		{ "model": "block/grass/grass/grassg_45_0", "weight": 10 },
+
+		{ "model": "block/grass/grass1/grass1x_0_0", "weight": 30 },
+		{ "model": "block/grass/grass1/grass1x_22_0", "weight": 30 },
+		{ "model": "block/grass/grass1/grass1x_22_1", "weight": 30 },
+		{ "model": "block/grass/grass1/grass1x_45_0", "weight": 30 },
+        { "model": "block/grass/grass1/grass1g_0_0", "weight": 7 },
+		{ "model": "block/grass/grass1/grass1g_22_0", "weight": 7 },
+		{ "model": "block/grass/grass1/grass1g_22_1", "weight": 7 },
+		{ "model": "block/grass/grass1/grass1g_45_0", "weight": 7 },
+
+		{ "model": "block/grass/grass2/grass2x_0_0", "weight": 35 },
+		{ "model": "block/grass/grass2/grass2x_22_0", "weight": 35 },
+		{ "model": "block/grass/grass2/grass2x_22_1", "weight": 35 },
+		{ "model": "block/grass/grass2/grass2x_45_0", "weight": 35 },
+        { "model": "block/grass/grass2/grass2g_0_0", "weight": 8 },
+		{ "model": "block/grass/grass2/grass2g_22_0", "weight": 8 },
+		{ "model": "block/grass/grass2/grass2g_22_1", "weight": 8 },
+		{ "model": "block/grass/grass2/grass2g_45_0", "weight": 8 },
+
+		{ "model": "block/grass/grass3/grass3x_0_0", "weight": 20 },
+		{ "model": "block/grass/grass3/grass3x_22_0", "weight": 20 },
+		{ "model": "block/grass/grass3/grass3x_22_1", "weight": 20 },
+		{ "model": "block/grass/grass3/grass3x_45_0", "weight": 20 },
+        { "model": "block/grass/grass3/grass3g_0_0", "weight": 5 },
+		{ "model": "block/grass/grass3/grass3g_22_0", "weight": 5 },
+		{ "model": "block/grass/grass3/grass3g_22_1", "weight": 5 },
+		{ "model": "block/grass/grass3/grass3g_45_0", "weight": 5 },
+
+		{ "model": "block/grass/grass4/grass4x_0_0", "weight": 30 },
+		{ "model": "block/grass/grass4/grass4x_22_0", "weight": 30 },
+		{ "model": "block/grass/grass4/grass4x_22_1", "weight": 30 },
+		{ "model": "block/grass/grass4/grass4x_45_0", "weight": 30 },
+        { "model": "block/grass/grass4/grass4g_0_0", "weight": 7 },
+		{ "model": "block/grass/grass4/grass4g_22_0", "weight": 7 },
+		{ "model": "block/grass/grass4/grass4g_22_1", "weight": 7 },
+		{ "model": "block/grass/grass4/grass4g_45_0", "weight": 7 },
+
+		{ "model": "block/grass/low_grass/low_grass_0_0", "weight": 30 },
+		{ "model": "block/grass/low_grass/low_grass_22_0", "weight": 30 },
+		{ "model": "block/grass/low_grass/low_grass_22_1", "weight": 30 },
+		{ "model": "block/grass/low_grass/low_grass_45_0", "weight": 30 }			
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+	"textures": {
+		"1": "block/button_crimson_book1",
+		"particle": "block/button_crimson_book"
+	},
+	"elements": [
+		{
+			"from": [5, 2, 3],
+			"to": [13, 2, 13],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 10, 10]},
+			"faces": {
+				"up": {"uv": [4, 1, 12, 11], "texture": "#1"},
+				"down": {"uv": [4, 1, 12, 11], "texture": "#1", "cullface": "down"}
+			}
+		},
+		{
+			"from": [5, 0, 3],
+			"to": [12, 2, 13],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 10, 10]},
+			"faces": {
+				"north": {"uv": [8, 14, 1, 16], "texture": "#1"},
+				"east": {"uv": [2, 14, 12, 16], "texture": "#1"},
+				"south": {"uv": [1, 14, 8, 16], "texture": "#1"},
+				"west": {"uv": [1, 12, 11, 14], "texture": "#1"}
+			}
+		},
+		{
+			"from": [5, 0.01, 3],
+			"to": [13, 0.01, 13],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 10, 10]},
+			"faces": {
+				"up": {"uv": [4, 1, 12, 11], "texture": "#1"},
+				"down": {"uv": [4, 1, 12, 11], "texture": "#1", "cullface": "down"}
+			}
+		}
+	]
+}

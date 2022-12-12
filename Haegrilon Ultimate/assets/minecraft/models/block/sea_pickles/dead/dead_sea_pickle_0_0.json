@@ -1,0 +1,39 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"particle": "block/sea_pickle",
+		"all": "block/sea_pickle"
+	},
+	"elements": [
+		{
+			"name": "top",
+			"from": [4.10581, 5.95, 1.42703],
+			"to": [8.10581, 5.95, 5.42703],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4.2875, 8]},
+			"faces": {
+				"up": {"uv": [8, 1, 12, 5], "texture": "#all"}
+			}
+		},
+		{
+			"from": [4.10581, 0, 1.42703],
+			"to": [8.10581, 6, 5.42703],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4.2875, 8]},
+			"faces": {
+				"north": {"uv": [4, 5, 8, 11], "texture": "#all"},
+				"east": {"uv": [12, 5, 16, 11], "texture": "#all"},
+				"south": {"uv": [0, 5, 4, 11], "texture": "#all"},
+				"west": {"uv": [8, 5, 12, 11], "texture": "#all"},
+				"up": {"uv": [4, 1, 8, 5], "texture": "#all"},
+				"down": {"uv": [8, 1, 12, 5], "texture": "#all", "cullface": "down"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "1",
+			"origin": [8, 4.2875, 8],
+			"children": [0, 1]
+		}
+	]
+}

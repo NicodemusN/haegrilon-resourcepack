@@ -1,0 +1,6 @@
+{
+    "parent": "block/masters/potted_tinted_cross_45_0",
+    "textures": {
+        "texture": "block/fern0"
+    }
+}

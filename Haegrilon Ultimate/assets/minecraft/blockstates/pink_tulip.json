@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "":[
+			{ "model": "block/flowers/pink_tulip/pink_tulip_0_0", "weight": 10 },
+			{ "model": "block/flowers/pink_tulip/pink_tulip_22_0", "weight": 10 },
+			{ "model": "block/flowers/pink_tulip/pink_tulip_22_1", "weight": 10 },
+			{ "model": "block/flowers/pink_tulip/pink_tulip_45_0", "weight": 10 }
+			]
+    }
+}

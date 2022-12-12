@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/spruce_planks" , "weight": 30 },
+			{ "model": "block/wood/spruce/spruce1" , "weight": 20 },
+			{ "model": "block/wood/spruce/spruce2" , "weight": 20 },
+			{ "model": "block/wood/spruce/spruce3" , "weight": 10 }
+		]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "ambientocclusion": false,	
+	"textures": {
+		"texture": "block/lily_pad2",
+		"flower": "block/lily_pad_extra",
+		"particle": "block/lily_pad"
+	},
+	"elements": [
+		{
+			"name": "Pad",
+			"from": [0, 0.25, 0],
+			"to": [16, 0.25, 16],
+			"faces": {
+				"up": {
+					"uv": [16, 0, 0, 16],
+					"texture": "#texture",
+					"tintindex": 0
+				},
+				"down": {
+					"uv": [16, 16, 0, 0],
+					"texture": "#texture",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [13.5, 0, 2.25],
+			"to": [14, 16, 18.25],
+			"shade": false,
+			"faces": {
+				"east": {"uv": [0, 0, 8, 8], "texture": "flower"},
+				"west": {"uv": [0, 0, 8, 8], "texture": "flower"}
+			},
+			"rotation": {
+				"origin": [13.5, -16, 2.25],
+				"axis": "y",
+				"angle": -45
+			}
+		},
+		{
+			"name": "cube",
+			"from": [2.25, 0, 2.625],
+			"to": [2.75, 16, 18.625],
+			"shade": false,
+			"faces": {
+				"east": {"uv": [0, 0, 8, 8], "texture": "flower"},
+				"west": {"uv": [0, 0, 8, 8], "texture": "flower"}
+			},
+			"rotation": {
+				"origin": [2.25, -16, 2.625],
+				"axis": "y",
+				"angle": 45
+			}
+		}
+	]
+}

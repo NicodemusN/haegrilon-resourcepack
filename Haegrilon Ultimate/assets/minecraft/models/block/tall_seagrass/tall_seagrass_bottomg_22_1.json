@@ -1,0 +1,6 @@
+{
+    "parent": "block/masters/grid_22_1",
+    "textures": {
+        "texture": "block/tall_seagrass_bottom"
+    }
+}

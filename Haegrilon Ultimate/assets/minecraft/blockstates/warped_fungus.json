@@ -1,0 +1,42 @@
+{
+    "variants": {
+        "": [	
+            { "model": "block/fungus/warped/warped_fungus_0_0", "weight": 10 },
+            { "model": "block/fungus/warped/warped_fungus_0_0", "weight": 10, "y": 90 },
+            { "model": "block/fungus/warped/warped_fungus_0_0", "weight": 10, "y": 180 },
+            { "model": "block/fungus/warped/warped_fungus_0_0", "weight": 10, "y": 270 },				
+            { "model": "block/fungus/warped/warped_fungus1_0_0", "weight": 10 },
+            { "model": "block/fungus/warped/warped_fungus1_0_0", "weight": 10, "y": 90 },
+            { "model": "block/fungus/warped/warped_fungus1_0_0", "weight": 10, "y": 180 },
+            { "model": "block/fungus/warped/warped_fungus1_0_0", "weight": 10, "y": 270 },
+			
+			{ "model": "block/fungus/warped/warped_fungus_22_0", "weight": 3 },
+            { "model": "block/fungus/warped/warped_fungus_22_0", "weight": 3, "y": 90 },
+            { "model": "block/fungus/warped/warped_fungus_22_0", "weight": 3, "y": 180 },
+            { "model": "block/fungus/warped/warped_fungus_22_0", "weight": 3, "y": 270 },				
+            { "model": "block/fungus/warped/warped_fungus1_22_0", "weight": 3 },
+            { "model": "block/fungus/warped/warped_fungus1_22_0", "weight": 3, "y": 90 },
+            { "model": "block/fungus/warped/warped_fungus1_22_0", "weight": 3, "y": 180 },
+            { "model": "block/fungus/warped/warped_fungus1_22_0", "weight": 3, "y": 270 },
+
+			{ "model": "block/fungus/warped/warped_fungus_22_1", "weight": 3 },
+            { "model": "block/fungus/warped/warped_fungus_22_1", "weight": 3, "y": 90 },
+            { "model": "block/fungus/warped/warped_fungus_22_1", "weight": 3, "y": 180 },
+            { "model": "block/fungus/warped/warped_fungus_22_1", "weight": 3, "y": 270 },				
+            { "model": "block/fungus/warped/warped_fungus1_22_1", "weight": 3 },
+            { "model": "block/fungus/warped/warped_fungus1_22_1", "weight": 3, "y": 90 },
+            { "model": "block/fungus/warped/warped_fungus1_22_1", "weight": 3, "y": 180 },
+            { "model": "block/fungus/warped/warped_fungus1_22_1", "weight": 3, "y": 270 },	
+
+			{ "model": "block/fungus/warped/warped_fungus_45_0", "weight": 1 },
+            { "model": "block/fungus/warped/warped_fungus_45_0", "weight": 1, "y": 90 },
+            { "model": "block/fungus/warped/warped_fungus_45_0", "weight": 1, "y": 180 },
+            { "model": "block/fungus/warped/warped_fungus_45_0", "weight": 1, "y": 270 },				
+            { "model": "block/fungus/warped/warped_fungus1_45_0", "weight": 1 },
+            { "model": "block/fungus/warped/warped_fungus1_45_0", "weight": 1, "y": 90 },
+            { "model": "block/fungus/warped/warped_fungus1_45_0", "weight": 1, "y": 180 },
+            { "model": "block/fungus/warped/warped_fungus1_45_0", "weight": 1, "y": 270 }			
+        ]
+    }
+}
+			

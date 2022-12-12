@@ -1,0 +1,6 @@
+{
+    "parent": "block/masters/tinted_grid_22_0",
+    "textures": {
+        "texture": "block/grass1"
+    }
+}

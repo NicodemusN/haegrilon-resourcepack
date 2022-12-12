@@ -1,0 +1,6 @@
+{
+    "parent": "block/masters/cross_45_0",
+    "textures": {
+        "texture": "block/deadbush1"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/masters/crop_45_0",
+    "textures": {
+        "texture": "block/potatoes_stage2"
+    }
+}

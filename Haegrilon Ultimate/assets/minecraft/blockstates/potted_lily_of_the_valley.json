@@ -1,0 +1,67 @@
+{
+	"multipart": [
+		{
+			"apply": [
+				{ "model": "block/flower_pots/dirt/flower_pot_0_0", "weight":14 },
+				{ "model": "block/flower_pots/dirt/flower_pot_22_0", "weight":3 },
+				{ "model": "block/flower_pots/dirt/flower_pot_22_1", "weight":3 },
+				{ "model": "block/flower_pots/dirt/flower_pot_45_0", "weight":1 },
+				
+				{ "model": "block/flower_pots/dirt/flower_pot1_0_0", "weight":14 },
+				{ "model": "block/flower_pots/dirt/flower_pot1_22_0", "weight":3 },
+				{ "model": "block/flower_pots/dirt/flower_pot1_22_1", "weight":3 },
+				{ "model": "block/flower_pots/dirt/flower_pot1_45_0", "weight":1 },
+
+				{ "model": "block/flower_pots/dirt/flower_pot2_0_0", "weight":14 },
+				{ "model": "block/flower_pots/dirt/flower_pot2_22_0", "weight":3 },
+				{ "model": "block/flower_pots/dirt/flower_pot2_22_1", "weight":3 },
+				{ "model": "block/flower_pots/dirt/flower_pot2_45_0", "weight":1 },
+
+
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot_0_0", "weight":14 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot_22_0", "weight":3 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot_22_1", "weight":3 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot_45_0", "weight":1 },
+				
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot1_0_0", "weight":14 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot1_22_0", "weight":3 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot1_22_1", "weight":3 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot1_45_0", "weight":1 },
+
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot2_0_0", "weight":14 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot2_22_0", "weight":3 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot2_22_1", "weight":3 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot2_45_0", "weight":1 },
+
+
+				{ "model": "block/flower_pots/compost/flower_pot_0_0", "weight":14 },
+				{ "model": "block/flower_pots/compost/flower_pot_22_0", "weight":3 },
+				{ "model": "block/flower_pots/compost/flower_pot_22_1", "weight":3 },
+				{ "model": "block/flower_pots/compost/flower_pot_45_0", "weight":1 },
+				
+				{ "model": "block/flower_pots/compost/flower_pot1_0_0", "weight":14 },
+				{ "model": "block/flower_pots/compost/flower_pot1_22_0", "weight":3 },
+				{ "model": "block/flower_pots/compost/flower_pot1_22_1", "weight":3 },
+				{ "model": "block/flower_pots/compost/flower_pot1_45_0", "weight":1 },
+
+				{ "model": "block/flower_pots/compost/flower_pot2_0_0", "weight":14 },
+				{ "model": "block/flower_pots/compost/flower_pot2_22_0", "weight":3 },
+				{ "model": "block/flower_pots/compost/flower_pot2_22_1", "weight":3 },
+				{ "model": "block/flower_pots/compost/flower_pot2_45_0", "weight":1 }
+			]
+		},
+		{
+			"apply": [
+				{ "model": "block/flowers/lily_of_the_valley/potted/lily_of_the_valley_0_0", "weight":7 },
+				{ "model": "block/flowers/lily_of_the_valley/potted/lily_of_the_valley_22_0", "weight":3 },
+				{ "model": "block/flowers/lily_of_the_valley/potted/lily_of_the_valley_22_1", "weight":3 },
+				{ "model": "block/flowers/lily_of_the_valley/potted/lily_of_the_valley_45_0", "weight":1 },
+
+        		{ "model": "block/flowers/lily_of_the_valley/potted/lily_of_the_valleyx_0_0", "weight":7 },
+				{ "model": "block/flowers/lily_of_the_valley/potted/lily_of_the_valleyx_22_0", "weight":3 },
+				{ "model": "block/flowers/lily_of_the_valley/potted/lily_of_the_valleyx_22_1", "weight":3 },
+				{ "model": "block/flowers/lily_of_the_valley/potted/lily_of_the_valleyx_45_0", "weight":1 }
+			]
+		}
+	]
+}

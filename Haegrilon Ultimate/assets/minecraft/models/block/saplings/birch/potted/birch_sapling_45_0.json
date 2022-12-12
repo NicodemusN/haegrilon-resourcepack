@@ -1,0 +1,6 @@
+{
+	"parent": "block/masters/potted_sapling_45_0",
+	"textures": {
+		"sapling": "block/birch_sapling"
+			}
+}

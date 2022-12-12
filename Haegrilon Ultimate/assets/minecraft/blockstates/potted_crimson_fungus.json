@@ -1,0 +1,98 @@
+{
+	"multipart": [
+		{
+			"apply": [
+				{ "model": "block/flower_pots/dirt/flower_pot_0_0", "weight":14 },
+				{ "model": "block/flower_pots/dirt/flower_pot_22_0", "weight":3 },
+				{ "model": "block/flower_pots/dirt/flower_pot_22_1", "weight":3 },
+				{ "model": "block/flower_pots/dirt/flower_pot_45_0", "weight":1 },
+				
+				{ "model": "block/flower_pots/dirt/flower_pot1_0_0", "weight":14 },
+				{ "model": "block/flower_pots/dirt/flower_pot1_22_0", "weight":3 },
+				{ "model": "block/flower_pots/dirt/flower_pot1_22_1", "weight":3 },
+				{ "model": "block/flower_pots/dirt/flower_pot1_45_0", "weight":1 },
+
+				{ "model": "block/flower_pots/dirt/flower_pot2_0_0", "weight":14 },
+				{ "model": "block/flower_pots/dirt/flower_pot2_22_0", "weight":3 },
+				{ "model": "block/flower_pots/dirt/flower_pot2_22_1", "weight":3 },
+				{ "model": "block/flower_pots/dirt/flower_pot2_45_0", "weight":1 },
+
+
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot_0_0", "weight":14 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot_22_0", "weight":3 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot_22_1", "weight":3 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot_45_0", "weight":1 },
+				
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot1_0_0", "weight":14 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot1_22_0", "weight":3 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot1_22_1", "weight":3 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot1_45_0", "weight":1 },
+
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot2_0_0", "weight":14 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot2_22_0", "weight":3 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot2_22_1", "weight":3 },
+				{ "model": "block/flower_pots/coarse_dirt/flower_pot2_45_0", "weight":1 },
+
+
+				{ "model": "block/flower_pots/compost/flower_pot_0_0", "weight":14 },
+				{ "model": "block/flower_pots/compost/flower_pot_22_0", "weight":3 },
+				{ "model": "block/flower_pots/compost/flower_pot_22_1", "weight":3 },
+				{ "model": "block/flower_pots/compost/flower_pot_45_0", "weight":1 },
+				
+				{ "model": "block/flower_pots/compost/flower_pot1_0_0", "weight":14 },
+				{ "model": "block/flower_pots/compost/flower_pot1_22_0", "weight":3 },
+				{ "model": "block/flower_pots/compost/flower_pot1_22_1", "weight":3 },
+				{ "model": "block/flower_pots/compost/flower_pot1_45_0", "weight":1 },
+
+				{ "model": "block/flower_pots/compost/flower_pot2_0_0", "weight":14 },
+				{ "model": "block/flower_pots/compost/flower_pot2_22_0", "weight":3 },
+				{ "model": "block/flower_pots/compost/flower_pot2_22_1", "weight":3 },
+				{ "model": "block/flower_pots/compost/flower_pot2_45_0", "weight":1 }
+			]
+		},
+		{
+			"apply": [
+				{ "model": "block/fungus/crimson/potted/crimson_fungus_0_0", "weight":6 },
+				{ "model": "block/fungus/crimson/potted/crimson_fungus_0_0", "weight":6, "y": 90 },
+				{ "model": "block/fungus/crimson/potted/crimson_fungus_0_0", "weight":6, "y": 180 },
+				{ "model": "block/fungus/crimson/potted/crimson_fungus_0_0", "weight":6, "y": 270  },
+
+				{ "model": "block/fungus/crimson/potted/crimson_fungus_22_0", "weight":2 },
+				{ "model": "block/fungus/crimson/potted/crimson_fungus_22_0", "weight":2, "y": 90 },
+				{ "model": "block/fungus/crimson/potted/crimson_fungus_22_0", "weight":2, "y": 180 },
+				{ "model": "block/fungus/crimson/potted/crimson_fungus_22_0", "weight":2, "y": 270  },
+
+				{ "model": "block/fungus/crimson/potted/crimson_fungus_22_1", "weight":2 },
+				{ "model": "block/fungus/crimson/potted/crimson_fungus_22_1", "weight":2, "y": 90 },
+				{ "model": "block/fungus/crimson/potted/crimson_fungus_22_1", "weight":2, "y": 180 },
+				{ "model": "block/fungus/crimson/potted/crimson_fungus_22_1", "weight":2, "y": 270  },
+
+				{ "model": "block/fungus/crimson/potted/crimson_fungus_45_0", "weight":1 },
+				{ "model": "block/fungus/crimson/potted/crimson_fungus_45_0", "weight":1, "y": 90 },
+				{ "model": "block/fungus/crimson/potted/crimson_fungus_45_0", "weight":1, "y": 180 },
+				{ "model": "block/fungus/crimson/potted/crimson_fungus_45_0", "weight":1, "y": 270  },
+
+
+				{ "model": "block/fungus/crimson/potted/crimson_fungus2_0_0", "weight":10 },
+				{ "model": "block/fungus/crimson/potted/crimson_fungus2_0_0", "weight":10, "y": 90 },
+				{ "model": "block/fungus/crimson/potted/crimson_fungus2_0_0", "weight":10, "y": 180 },
+				{ "model": "block/fungus/crimson/potted/crimson_fungus2_0_0", "weight":10, "y": 270  },
+
+				{ "model": "block/fungus/crimson/potted/crimson_fungus2_22_0", "weight":3 },
+				{ "model": "block/fungus/crimson/potted/crimson_fungus2_22_0", "weight":3, "y": 90 },
+				{ "model": "block/fungus/crimson/potted/crimson_fungus2_22_0", "weight":3, "y": 180 },
+				{ "model": "block/fungus/crimson/potted/crimson_fungus2_22_0", "weight":3, "y": 270  },
+
+				{ "model": "block/fungus/crimson/potted/crimson_fungus2_22_1", "weight":3 },
+				{ "model": "block/fungus/crimson/potted/crimson_fungus2_22_1", "weight":3, "y": 90 },
+				{ "model": "block/fungus/crimson/potted/crimson_fungus2_22_1", "weight":3, "y": 180 },
+				{ "model": "block/fungus/crimson/potted/crimson_fungus2_22_1", "weight":3, "y": 270  },
+
+				{ "model": "block/fungus/crimson/potted/crimson_fungus2_45_0", "weight":1 },
+				{ "model": "block/fungus/crimson/potted/crimson_fungus2_45_0", "weight":1, "y": 90 },
+				{ "model": "block/fungus/crimson/potted/crimson_fungus2_45_0", "weight":1, "y": 180 },
+				{ "model": "block/fungus/crimson/potted/crimson_fungus2_45_0", "weight":1, "y": 270  }
+			]
+		}
+	]
+}

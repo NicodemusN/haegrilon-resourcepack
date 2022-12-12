@@ -1,0 +1,19 @@
+{
+    "textures": {
+    "particle": "#wall",
+	"top": "block/cobble_wall_top",		
+    "wall": "minecraft:block/stonebrick6"	
+    },
+    "elements": [
+        {   "from": [ 5, 0, 0 ],
+            "to": [ 11, 16, 8 ],
+            "faces": {
+                "down":  { "texture": "#wall", "cullface": "down" },
+                "up":    { "texture": "#top" },
+                "north": { "texture": "#wall", "cullface": "north" },
+                "west":  { "texture": "#wall" },
+                "east":  { "texture": "#wall" }
+            }
+        }
+    ]
+}

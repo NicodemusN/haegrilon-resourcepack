@@ -1,0 +1,50 @@
+{
+  "comment": "Made by Maffhew",
+  "textureSize": [64,32],
+  "submodels": [
+    {
+      "id": "Snout",
+      "translate": [-6.0,-5.0,2],
+      "boxes": [
+        {
+          "coordinates": [-4.0,-3.0,0.0,4.0,3.0,2.0],
+          "uvDown": [24,3,28,5],
+          "uvUp": [20,3,24,5],
+          "uvNorth": [22,5,26,8],
+          "uvWest": [26,5,28,8],
+          "uvEast": [20,5,22,8]
+        }
+      ]
+    },
+    {
+      "id": "RightEar",
+      "translate": [-3.0,-7.0,6.5],
+      "rotate": [0.0,0.0,22.5],
+      "boxes": [
+        {
+          "coordinates": [-3.0,-2.0,0.0,3.0,2.0,1.0],
+          "uvDown": [36,7,39,8],
+          "uvUp": [36,4,39,5],
+          "uvNorth": [36,5,39,7],
+          "uvSouth": [39,5,42,7],
+          "uvWest": [35,5,36,7]
+        }
+      ]
+    },
+    {
+      "id": "LeftEar",
+      "translate": [-10.25,-8.125,6.5],
+      "rotate": [0.0,0.0,337.5],
+      "boxes": [
+        {
+          "coordinates": [-3.0,-2.0,0.0,3.0,2.0,1.0],
+          "uvDown": [29,7,32,8],
+          "uvUp": [29,4,32,5],
+          "uvNorth": [29,5,32,7],
+          "uvSouth": [32,5,35,7],
+          "uvEast": [28,5,29,7]
+        }
+      ]
+    }
+  ]
+}

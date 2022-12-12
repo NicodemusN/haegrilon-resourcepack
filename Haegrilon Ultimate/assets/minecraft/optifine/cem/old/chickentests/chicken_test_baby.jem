@@ -1,0 +1,86 @@
+{
+	"texture": "chicken5.png",
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -9, 4],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-1, 3, -3, 2, 3, 2], "textureOffset": [41, 3]}
+			]
+		},
+		{
+			"part": "beak",
+			"id": "beak",
+			"invertAxis": "xy",
+			"translate": [0, -9, 4],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-0.5, 4, -4, 1, 1, 1], "textureOffset": [49, 3]}
+			]
+		},
+		{
+			"part": "comb",
+			"id": "comb",
+			"invertAxis": "xy",
+			"translate": [0, -9, 4],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-1, 2, -5, 2, 2, 2], "textureOffset": [14, 4]}
+			]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -8, 0],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-1.5, 2, -2, 3, 3, 3], "textureOffset": [41, 16]}
+			]
+		},
+		{
+			"part": "leg0",
+			"id": "leg0",
+			"invertAxis": "xy",
+			"translate": [-2, -5, -1],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-1.5, 0, -1, 1, 2, 1], "textureOffset": [60, 3]}
+			]
+		},
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [1, -5, -1],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [0.5, 0, -1, 1, 2, 1], "textureOffset": [60, 3]}
+			]
+		},
+		{
+			"part": "wing0",
+			"id": "wing0",
+			"invertAxis": "xy",
+			"translate": [-3, -11, 0],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-2.5, 3, -2, 1, 2, 2], "textureOffset": [57, 19]}
+			]
+		},
+		{
+			"part": "wing1",
+			"id": "wing1",
+			"invertAxis": "xy",
+			"translate": [3, -11, 0],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [1.5, 3, -2, 1, 2, 2], "textureOffset": [57, 19]}
+			]
+		}
+	]
+}

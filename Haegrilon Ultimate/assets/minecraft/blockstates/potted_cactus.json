@@ -1,0 +1,20 @@
+{
+  "variants": {
+      "":[
+    { "model": "block/cactus/potted/potted_cactus_0_0", "weight": 10 },
+    { "model": "block/cactus/potted/potted_cactus_22_0", "weight": 10 },
+    { "model": "block/cactus/potted/potted_cactus_22_1", "weight": 10 },
+    { "model": "block/cactus/potted/potted_cactus_45_0", "weight": 10 },
+
+    { "model": "block/cactus/potted/potted_cactus_blue_0_0", "weight": 1 },
+    { "model": "block/cactus/potted/potted_cactus_blue_22_0", "weight": 1 },
+    { "model": "block/cactus/potted/potted_cactus_blue_22_1", "weight": 1 },
+    { "model": "block/cactus/potted/potted_cactus_blue_45_0", "weight": 1 },
+
+    { "model": "block/cactus/potted/potted_cactus_red_0_0", "weight": 1 },
+    { "model": "block/cactus/potted/potted_cactus_red_22_0", "weight": 1 },
+    { "model": "block/cactus/potted/potted_cactus_red_22_1", "weight": 1 },
+    { "model": "block/cactus/potted/potted_cactus_red_45_0", "weight": 1 }
+    ]
+  }
+}

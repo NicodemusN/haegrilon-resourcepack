@@ -1,0 +1,10 @@
+{
+  "variants": {
+      "":[
+    { "model": "block/flowers/wither_rose/potted/wither_rose_0_0", "weight": 14 },
+    { "model": "block/flowers/wither_rose/potted/wither_rose_22_0", "weight": 3 },
+    { "model": "block/flowers/wither_rose/potted/wither_rose_22_1", "weight": 3 },
+    { "model": "block/flowers/wither_rose/potted/wither_rose_45_0", "weight": 1 }
+    ]
+  }
+}

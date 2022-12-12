@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "": [	
+            { "model": "block/crimson_roots/crimson_rootsx_0_0", "weight": 40 },
+			{ "model": "block/crimson_roots/crimson_rootsx_22_0", "weight": 40 },
+			{ "model": "block/crimson_roots/crimson_rootsx_22_1", "weight": 40 },
+			{ "model": "block/crimson_roots/crimson_rootsx_45_0", "weight": 40 },
+			
+			{ "model": "block/crimson_roots/crimson_rootsg_0_0", "weight": 10 },
+			{ "model": "block/crimson_roots/crimson_rootsg_22_0", "weight": 10 },
+			{ "model": "block/crimson_roots/crimson_rootsg_22_1", "weight": 10 },
+			{ "model": "block/crimson_roots/crimson_rootsg_45_0", "weight": 10 }			
+			]
+    }
+}

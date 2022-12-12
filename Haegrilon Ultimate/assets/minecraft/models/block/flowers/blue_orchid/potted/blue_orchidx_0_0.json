@@ -1,0 +1,6 @@
+{
+    "parent": "block/masters/potted_cross_mirrored_0_0",
+    "textures": {
+        "texture": "block/blue_orchid"
+    }
+}

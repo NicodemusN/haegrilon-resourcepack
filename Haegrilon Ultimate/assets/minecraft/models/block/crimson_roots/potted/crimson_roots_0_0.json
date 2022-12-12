@@ -1,0 +1,6 @@
+{
+    "parent": "block/masters/potted_cross_0_0",
+    "textures": {
+      "texture": "minecraft:block/crimson_roots/crimson_roots_pot"
+    }
+  }

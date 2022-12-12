@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "":[
+			{ "model": "block/flowers/allium/allium_0_0", "weight": 10 },
+			{ "model": "block/flowers/allium/allium_22_0", "weight": 10 },
+			{ "model": "block/flowers/allium/allium_22_1", "weight": 10 },
+			{ "model": "block/flowers/allium/allium_45_0", "weight": 10 },
+            
+			{ "model": "block/flowers/allium/allium1_0_0", "weight": 10 },
+			{ "model": "block/flowers/allium/allium1_22_0", "weight": 10 },
+			{ "model": "block/flowers/allium/allium1_22_1", "weight": 10 },
+			{ "model": "block/flowers/allium/allium1_45_0", "weight": 10 }
+			]
+    }
+}

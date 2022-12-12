@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "":[
+			{ "model": "block/bamboo/bamboo_sapling_0_0", "weight": 10 },
+			{ "model": "block/bamboo/bamboo_sapling_22_0", "weight": 3 },
+			{ "model": "block/bamboo/bamboo_sapling_22_1", "weight": 3 },
+			{ "model": "block/bamboo/bamboo_sapling_45_0", "weight": 1 }
+			]
+    }
+}

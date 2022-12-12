@@ -1,0 +1,6 @@
+{
+    "parent": "block/masters/grid_0_0",
+    "textures": {
+        "texture": "block/tall_seagrass_top"
+    }
+}

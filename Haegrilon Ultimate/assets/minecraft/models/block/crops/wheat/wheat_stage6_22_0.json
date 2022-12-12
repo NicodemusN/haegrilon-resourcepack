@@ -1,0 +1,6 @@
+{
+    "parent": "block/masters/wheat_22_0",
+    "textures": {
+        "texture": "block/wheat_stage_full_6"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "": [	
+            { "model": "block/warped_roots/warped_rootsx_0_0", "weight": 10 },
+			{ "model": "block/warped_roots/warped_rootsx_22_0", "weight": 3 },
+			{ "model": "block/warped_roots/warped_rootsx_22_1", "weight": 3 },
+			{ "model": "block/warped_roots/warped_rootsx_45_0", "weight": 1 },
+			
+			{ "model": "block/warped_roots/warped_rootsg_0_0", "weight": 10 },
+			{ "model": "block/warped_roots/warped_rootsg_22_0", "weight": 3 },
+			{ "model": "block/warped_roots/warped_rootsg_22_1", "weight": 3 },
+			{ "model": "block/warped_roots/warped_rootsg_45_0", "weight": 1 }			
+			]
+    }
+}

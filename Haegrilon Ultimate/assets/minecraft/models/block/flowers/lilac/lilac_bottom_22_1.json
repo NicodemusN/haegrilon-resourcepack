@@ -1,0 +1,6 @@
+{
+    "parent": "block/masters/cross_22_1",
+    "textures": {
+        "texture": "block/lilac_bottom"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "variants": {
+        "age=0": [
+				{ "model": "block/nether_wart/nether_wart_stage0_0_0", "weight": 100 },
+				{ "model": "block/nether_wart/nether_wart_stage0_22_0", "weight": 20 },
+				{ "model": "block/nether_wart/nether_wart_stage0_22_1", "weight": 20 },
+				{ "model": "block/nether_wart/nether_wart_stage0_45_0", "weight": 1 }
+				],        
+        "age=1": [
+				{ "model": "block/nether_wart/nether_wart_stage1_0_0", "weight": 100 },
+				{ "model": "block/nether_wart/nether_wart_stage1_22_0", "weight": 20 },
+				{ "model": "block/nether_wart/nether_wart_stage1_22_1", "weight": 20 },
+				{ "model": "block/nether_wart/nether_wart_stage1_45_0", "weight": 1 }
+				],        
+        "age=2": [
+				{ "model": "block/nether_wart/nether_wart_stage2_0_0", "weight": 100 },
+				{ "model": "block/nether_wart/nether_wart_stage2_22_0", "weight": 20 },
+				{ "model": "block/nether_wart/nether_wart_stage2_22_1", "weight": 20 },
+				{ "model": "block/nether_wart/nether_wart_stage2_45_0", "weight": 1 }
+				],       
+        "age=3": [
+				{ "model": "block/nether_wart/nether_wart_stage3_0_0", "weight": 100 },
+				{ "model": "block/nether_wart/nether_wart_stage3_22_0", "weight": 20 },
+				{ "model": "block/nether_wart/nether_wart_stage3_22_1", "weight": 20 },
+				{ "model": "block/nether_wart/nether_wart_stage3_45_0", "weight": 1 }
+				]
+    }
+}

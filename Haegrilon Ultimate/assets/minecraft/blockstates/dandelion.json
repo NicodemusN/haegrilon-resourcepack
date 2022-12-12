@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "":[
+			{ "model": "block/flowers/dandelion/dandelion_0_0", "weight": 10 },
+			{ "model": "block/flowers/dandelion/dandelion_22_0", "weight": 10 },
+			{ "model": "block/flowers/dandelion/dandelion_22_1", "weight": 10 },
+			{ "model": "block/flowers/dandelion/dandelion_45_0", "weight": 10 },
+            
+			{ "model": "block/flowers/dandelion/dandelion1_0_0", "weight": 10 },
+			{ "model": "block/flowers/dandelion/dandelion1_22_0", "weight": 10 }
+			]
+    }
+}

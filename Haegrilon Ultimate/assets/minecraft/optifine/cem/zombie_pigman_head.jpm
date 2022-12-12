@@ -1,0 +1,20 @@
+{
+  "comment": "Made by Maffhew",
+  "textureSize": [64,64],
+  "submodels": [
+    {
+      "id": "Snout",
+      "translate": [-6.0,-5.0,2.0],
+      "boxes": [
+        {
+          "coordinates": [-4.25,-3.0,0.0,4.5,3.0,2.0],
+          "uvDown": [30,0,34,2],
+          "uvUp": [26,0,30,2],
+          "uvNorth": [26,2,30,5],
+          "uvWest": [30,2,32,5],
+          "uvEast": [24,2,26,5]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "":[
+			{ "model": "block/flowers/oxeye_daisy/oxeye_daisy_0_0", "weight": 10 },
+			{ "model": "block/flowers/oxeye_daisy/oxeye_daisy_22_0", "weight": 10 },
+			{ "model": "block/flowers/oxeye_daisy/oxeye_daisy_22_1", "weight": 10 },
+			{ "model": "block/flowers/oxeye_daisy/oxeye_daisy_45_0", "weight": 10 }
+			]
+    }
+}

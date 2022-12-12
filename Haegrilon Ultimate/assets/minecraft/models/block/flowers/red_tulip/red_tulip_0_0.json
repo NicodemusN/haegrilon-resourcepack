@@ -1,0 +1,6 @@
+{
+    "parent": "block/masters/cross_0_0",
+    "textures": {
+        "texture": "block/red_tulip"
+    }
+}

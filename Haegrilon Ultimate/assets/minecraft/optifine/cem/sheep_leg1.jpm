@@ -1,0 +1,21 @@
+{
+  "comment": "Made by Maffhew",
+  "textureSize": [64,32],
+  "submodels": [
+    {
+      "id": "e0_Box2",
+      "translate": [1.0,12.0,-1.0],
+      "boxes": [
+        {
+          "coordinates": [-2.0,-12.0,0.0,2.0,12.0,2.0],
+          "uvDown": [9,17,11,19],
+          "uvUp": [6,18,8,20],
+          "uvNorth": [10,20,12,32],
+          "uvSouth": [8,20,10,32],
+          "uvWest": [2,20,4,32],
+          "uvEast": [6,20,8,32]
+        }
+      ]
+    }
+  ]
+}

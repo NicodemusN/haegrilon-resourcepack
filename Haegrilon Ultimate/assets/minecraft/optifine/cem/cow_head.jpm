@@ -1,0 +1,67 @@
+{
+  "comment": "Created by Maffhew",
+  "textureSize": [64,32],
+  "submodels": [
+    {
+      "id": "Snout",
+      "translate": [-4.0,-4,4.0],
+      "boxes": [
+        {
+          "coordinates": [-6.0,-3.0,0.0,6.0,3.0,4.0],
+          "uvDown": [58,8,64,12],
+          "uvUp": [52,8,58,12],
+          "uvNorth": [7,11,13,14],
+          "uvWest": [13,11,17,14],
+          "uvEast": [3,11,7,14]
+        }
+      ]
+    },	
+    {
+      "id": "LowerSnout",
+      "translate": [-4.5,-3,5.0],
+      "boxes": [
+        {
+          "coordinates": [-5.0,-2.0,0.0,5.0,2.0,3.0],
+          "uvDown": [12,14,15,16],
+          "uvUp": [12,14,15,16],		  
+          "uvNorth": [8,14,12,16],
+          "uvSouth": [8,14,12,16],
+          "uvWest": [12,14,15,16],
+          "uvEast": [5,14,9,16]
+        }
+      ]
+    },	
+    {
+      "id": "LeftEar",
+      "translate": [-1.0,-5.75,9.5],
+      "rotate": [0.0,0.0,22.5],		  
+      "boxes": [
+        {
+          "coordinates": [-3.0,-2.0,0.0,3.0,2.0,1.0],
+          "uvDown": [29,3,32,4],
+          "uvUp": [36,0,39,1],
+          "uvNorth": [29,1,32,3],
+          "uvSouth": [32,1,35,3],
+          "uvEast": [28,1,29,3],
+          "uvWest": [28,1,29,3]		  
+        }
+      ]
+    },	
+    {
+      "id": "RightEar",
+      "translate": [-10.0,-6.75,9.5],
+      "rotate": [0.0,0.0,-22.5],	  
+      "boxes": [
+        {
+          "coordinates": [-3.0,-2.0,0.0,3.0,2.0,1.0],
+          "uvDown": [36,3,39,4],
+          "uvUp": [29,0,32,1],
+          "uvNorth": [36,1,39,3],
+          "uvSouth": [39,1,42,3],
+          "uvWest": [35,1,36,3],
+          "uvEast": [35,1,36,3]		  
+        }
+      ]
+    }
+  ]
+}

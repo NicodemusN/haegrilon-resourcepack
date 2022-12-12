@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "":[
+			{ "model": "block/flowers/azure_bluet/azure_bluet_0_0", "weight": 10 },
+			{ "model": "block/flowers/azure_bluet/azure_bluet_22_0", "weight": 10 },
+			{ "model": "block/flowers/azure_bluet/azure_bluet_22_1", "weight": 10 },
+			{ "model": "block/flowers/azure_bluet/azure_bluet_45_0", "weight": 10 },
+
+			{ "model": "block/flowers/azure_bluet/azure_bluet1_0_0", "weight": 10 },
+			{ "model": "block/flowers/azure_bluet/azure_bluet1_22_0", "weight": 10 },
+			{ "model": "block/flowers/azure_bluet/azure_bluet1_22_1", "weight": 10 },
+			{ "model": "block/flowers/azure_bluet/azure_bluet1_45_0", "weight": 10 },
+
+			{ "model": "block/flowers/azure_bluet/azure_bluet2_0_0", "weight": 20 },
+
+			{ "model": "block/flowers/azure_bluet/azure_bluet3_0_0", "weight": 20 }
+			]
+    }
+}

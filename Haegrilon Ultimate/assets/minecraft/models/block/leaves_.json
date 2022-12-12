@@ -1,0 +1,78 @@
+{
+	"textures": {
+		"particle": "#middle"
+	},
+	"elements": [
+		{
+			"name": "leaves",
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#middle",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#middle",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#middle",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#middle",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#middle",
+					"tintindex": 0
+				},
+				"down": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#middle",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "leavesNS",
+			"from": [0, -8, 0.5],
+			"to": [16, 0, 15.5],
+			"faces": {
+				"north": {
+					"uv": [0, 0, 16, 8],
+					"texture": "#tips",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [0, 0, 16, 8],
+					"texture": "#tips",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "leavesEW",
+			"from": [0.5, -8, 0],
+			"to": [15.5, 0, 16],
+			"faces": {
+				"east": {
+					"uv": [0, 0, 16, 8],
+					"texture": "#tips",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [0, 0, 16, 8],
+					"texture": "#tips",
+					"tintindex": 0
+				}
+			}
+		}
+	]
+}

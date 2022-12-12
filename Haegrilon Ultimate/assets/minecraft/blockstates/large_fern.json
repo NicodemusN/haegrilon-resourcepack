@@ -1,0 +1,26 @@
+{
+	"variants": {
+		"half=lower":[
+            { "model": "block/large_fern/large_fern_bottomx_0_0", "weight": 5 },
+            { "model": "block/large_fern/large_fern_bottomx_22_0", "weight": 5 },
+            { "model": "block/large_fern/large_fern_bottomx_22_1", "weight": 5 },
+            { "model": "block/large_fern/large_fern_bottomx_45_0", "weight": 5 },
+
+			{ "model": "block/large_fern/large_fern_bottomg_0_0", "weight": 20 },
+            { "model": "block/large_fern/large_fern_bottomg_22_0", "weight": 20 },
+            { "model": "block/large_fern/large_fern_bottomg_22_1", "weight": 20 },
+            { "model": "block/large_fern/large_fern_bottomg_45_0", "weight": 20 }
+			],
+		"half=upper":[
+			{ "model": "block/large_fern/large_fern_topx_0_0", "weight": 5 },
+            { "model": "block/large_fern/large_fern_topx_22_0", "weight": 5 },
+            { "model": "block/large_fern/large_fern_topx_22_1", "weight": 5 },
+            { "model": "block/large_fern/large_fern_topx_45_0", "weight": 5 },
+
+			{ "model": "block/large_fern/large_fern_topg_0_0", "weight": 20 },
+            { "model": "block/large_fern/large_fern_topg_22_0", "weight": 20 },
+            { "model": "block/large_fern/large_fern_topg_22_1", "weight": 20 },
+            { "model": "block/large_fern/large_fern_topg_45_0", "weight": 20 }
+			]
+    }
+}

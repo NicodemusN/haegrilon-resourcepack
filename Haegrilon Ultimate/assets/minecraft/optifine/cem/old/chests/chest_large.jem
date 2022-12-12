@@ -1,0 +1,12 @@
+{
+  "models": 
+  [
+    {
+      "model": "chest_base_large.jpm",
+      "part": "base", 
+	  "attach": false,
+      "translate": [ 15, 10, -1],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}
